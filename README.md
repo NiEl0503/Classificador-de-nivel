@@ -27,7 +27,7 @@ Se XP for maior ou igual a 10.001 = Radiante
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
-#2️⃣ Calculadora de partidas Rankeadas
+# 2️⃣ Calculadora de partidas Rankeadas
 **O Que deve ser utilizado**
 
 - Variáveis
